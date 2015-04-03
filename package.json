@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/lksv/node-resemble.js",
   "dependencies": {
-    "pngjs": "~0.4.0"
+    "node-png": "~0.4.3"
   }
 }
